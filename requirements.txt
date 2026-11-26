@@ -1,0 +1,15 @@
+# install torch first for your CUDA version, e.g.
+#   pip install torch --index-url https://download.pytorch.org/whl/cu128
+torch>=2.3
+transformers>=4.45
+numpy
+pandas>=2.2
+pyarrow
+scipy
+scikit-learn
+matplotlib
+requests
+streamlit>=1.38
+plotly
+py3Dmol
+pytest

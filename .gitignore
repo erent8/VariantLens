@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+data/raw/
+data/processed/landscapes/
+app/data/landscapes/
+app/data/am_landscape.parquet
+logs/
+.pytest_cache/
+data/processed/
+results/scores_*.parquet
